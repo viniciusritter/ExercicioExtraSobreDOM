@@ -16,7 +16,6 @@ const imageArray = [
     "egon15.jpg"
 ];
 
-//var numberIndex = Math.floor(Math.random() * imageArray.length);
 const imagens = document.querySelector('.imagens');
 
 function getRandomNr(){
